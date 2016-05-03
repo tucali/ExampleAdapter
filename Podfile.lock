@@ -1,0 +1,28 @@
+PODS:
+  - Bolts (1.7.0):
+    - Bolts/AppLinks (= 1.7.0)
+    - Bolts/Tasks (= 1.7.0)
+  - Bolts/AppLinks (1.7.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.7.0)
+  - FBSDKCoreKit (4.11.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.11.0):
+    - FBSDKCoreKit
+  - mopub-ios-sdk (4.6.0):
+    - mopub-ios-sdk/MoPubSDK (= 4.6.0)
+  - mopub-ios-sdk/MoPubSDK (4.6.0)
+
+DEPENDENCIES:
+  - FBSDKLoginKit
+  - mopub-ios-sdk
+
+SPEC CHECKSUMS:
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  FBSDKCoreKit: 686ac982723a14ec9ddb85e2f81235d7706c891b
+  FBSDKLoginKit: bade9fc78277764149ccc5bfaadbf13c83175c6a
+  mopub-ios-sdk: 5e7193f1a0f9bfe6513816416117d9c28d8dcf19
+
+PODFILE CHECKSUM: ce73f86d71a7d365e827b09516b9a1215a45aefc
+
+COCOAPODS: 1.0.0.rc.1

@@ -1,0 +1,6 @@
+framework module Pods_ExampleAdapter {
+  umbrella header "Pods-ExampleAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
